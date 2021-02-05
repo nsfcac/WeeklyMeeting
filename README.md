@@ -1,2 +1,2 @@
 # WeeklyMeeting
-This repo collects all the weekly meeting materials for the NSF/IUCRC CAC project.
+This repo collects all the weekly meeting materials of the NSF/IUCRC CAC project.
